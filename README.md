@@ -1,6 +1,7 @@
 # Discord-ModMail
 
-**Hello there 👋,  you can know how mod-mail bots are made in this repository so if it helps you make sure to give us a 🌟 **
+
+** Hello there 👋,  you can know how mod-mail bots are made in this repository so if it helps you make sure to give us a 🌟 **
 
 ---------
 
@@ -33,4 +34,4 @@
 
 -------------
 
-©️ copyrighted by parasop
+<p align="center">©️ copyrighted by parasop</p>
